@@ -1,4 +1,8 @@
 <!--- 
+Naming the title of you PR:
+* Name must follow the format: "<JIRA-Ticket-No>-<Short Description>"
+E.g. "ES-487-Data-Preparation-pipeline-Fix"
+
 Adding a couple of notes about your PR will help reviewers
 understand your PR and foster discussion. Please take a
 little more time to do so.
